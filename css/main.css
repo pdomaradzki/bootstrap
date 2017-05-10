@@ -17,3 +17,12 @@
   font-size: 20px;
   font-weight: 500;
 }
+
+.recipe {
+  background-color: green;
+  padding: 30px 10px;
+}
+
+.recipe h3, .recipe p {
+  color: #fff;
+}
