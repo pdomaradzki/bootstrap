@@ -1,3 +1,19 @@
 .navbar {
   margin-bottom: 0;
 }
+
+.ingredient {
+  padding: 50px 0;
+  background-color: limegreen;
+  color: #fff;
+}
+
+.ingredient span {
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+
+.ingredient p {
+  font-size: 20px;
+  font-weight: 500;
+}
